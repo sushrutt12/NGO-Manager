@@ -11,10 +11,6 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.VendorCompanyAdminRole.VendorCompanyWorkAreaJPanel;
 
-/**
- *
- * @author raunak
- */
 public class VendorCompanyAdminRole extends Role {
 
     @Override
