@@ -6,10 +6,6 @@ package Business.WorkQueue;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author raunak
- */
 public class WishWorkRequest extends WorkRequest {
 private String wishTitle;
 private String wishDetails;
