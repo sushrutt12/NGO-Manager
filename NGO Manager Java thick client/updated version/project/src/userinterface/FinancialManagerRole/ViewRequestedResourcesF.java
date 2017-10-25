@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author sneha
+ * @author sushrut tadwalkar
  */
 public class ViewRequestedResourcesF extends javax.swing.JPanel {
 
