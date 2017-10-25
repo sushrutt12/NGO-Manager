@@ -20,10 +20,6 @@ import javax.swing.JPanel;
 import javax.swing.ListSelectionModel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author h
- */
 public class BudgetJPanel extends javax.swing.JPanel {
 
     Enterprise enterprise;
