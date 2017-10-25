@@ -34,7 +34,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author h
+ * @author sushrut tadwalkar
  */
 public class FinancialManagerWorkAreaJPanel extends javax.swing.JPanel {
 
