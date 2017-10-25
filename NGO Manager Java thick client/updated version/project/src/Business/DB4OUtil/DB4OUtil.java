@@ -8,10 +8,7 @@ import com.db4o.ObjectSet;
 import com.db4o.config.EmbeddedConfiguration;
 import com.db4o.ta.TransparentPersistenceSupport;
 
-/**
- *
- * @author rrheg
- */
+
 public class DB4OUtil {
 
     private static  String FILENAME = "C:\\Users\\sushr\\Desktop\\AED Final\\New folder\\updated version\\Database\\DataBank.db4o"; // path to the data store//C:\\DataBank.db4o
