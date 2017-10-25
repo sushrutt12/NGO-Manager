@@ -11,10 +11,7 @@ import Business.UserAccount.UserAccount;
 import UserInterface.AdministrativeRole.AdminWorkAreaJPanel;
 import javax.swing.JPanel;
 
-/**
- *
- * @author raunak
- */
+
 public class AdminRole extends Role{
 
     //here we're assigning the screen according to their Role
