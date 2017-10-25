@@ -6,10 +6,6 @@ package Business.WorkQueue;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author raunak
- */
 public class ResourcesWorkRequest extends WorkRequest {
 private ArrayList<Resource> resourceList;
 private String title;
