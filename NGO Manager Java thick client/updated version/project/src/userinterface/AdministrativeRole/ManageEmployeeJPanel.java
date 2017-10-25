@@ -13,10 +13,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author raunak
- */
 public class ManageEmployeeJPanel extends javax.swing.JPanel {
     private Enterprise enterprise;
     private OrganizationDirectory organizationDir;
