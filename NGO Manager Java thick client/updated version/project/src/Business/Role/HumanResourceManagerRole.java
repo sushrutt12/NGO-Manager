@@ -11,10 +11,6 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.HumanResourceManagerRole.HumanResourceManagerWorkAreaJPanel;
 
-/**
- *
- * @author raunak
- */
 public class HumanResourceManagerRole extends Role {
 
     @Override
