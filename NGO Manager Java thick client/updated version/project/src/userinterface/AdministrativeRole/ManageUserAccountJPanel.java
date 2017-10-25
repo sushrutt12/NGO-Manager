@@ -16,10 +16,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Administrator
- */
 public class ManageUserAccountJPanel extends javax.swing.JPanel {
 
     /**
