@@ -11,10 +11,6 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.FinancialManagerRole.FinancialManagerWorkAreaJPanel;
 
-/**
- *
- * @author raunak
- */
 public class FinanceManagerRole extends Role {
 
     @Override
