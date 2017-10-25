@@ -31,10 +31,6 @@ import org.jfree.data.general.DefaultPieDataset;
 import org.jfree.data.general.PieDataset;
 import org.jfree.util.Rotation;
 
-/**
- *
- * @author sneha
- */
 public class AnalyticsJPanel extends javax.swing.JPanel {
     JPanel userProcessContainer;
     EcoSystem business;
