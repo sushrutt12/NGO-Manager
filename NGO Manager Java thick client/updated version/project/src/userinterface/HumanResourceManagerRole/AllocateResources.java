@@ -19,10 +19,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author sneha
- */
 public class AllocateResources extends javax.swing.JPanel {
 
     JPanel userProcessContainer;
