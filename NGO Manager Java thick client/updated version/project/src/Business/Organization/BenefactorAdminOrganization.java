@@ -8,11 +8,6 @@ package Business.Organization;
 import Business.Role.BenefactorCompanyAdminRole;
 import Business.Role.Role;
 import java.util.ArrayList;
-
-/**
- *
- * @author Hanan
- */
 public class BenefactorAdminOrganization extends Organization {
     
     public BenefactorAdminOrganization() {
