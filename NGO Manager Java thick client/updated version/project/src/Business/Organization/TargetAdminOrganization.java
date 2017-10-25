@@ -9,10 +9,6 @@ import Business.Role.Role;
 import Business.Role.TargetCompanyAdminRole;
 import java.util.ArrayList;
 
-/**
- *
- * @author Hanan
- */
 public class TargetAdminOrganization extends Organization {
     
     public TargetAdminOrganization() {
