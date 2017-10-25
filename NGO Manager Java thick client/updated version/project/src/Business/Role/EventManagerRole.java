@@ -11,10 +11,6 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.EventManagerRole.EventManagerWorkAreaJPanel;
 
-/**
- *
- * @author raunak
- */
 public class EventManagerRole extends Role{
 
     @Override
