@@ -8,10 +8,7 @@ package Business.Enterprise;
 import Business.Role.Role;
 import java.util.ArrayList;
 
-/**
- *
- * @author Hanan
- */
+
 public class TargetCompanyEnterprise extends Enterprise{
 
 public TargetCompanyEnterprise(String name){
