@@ -15,10 +15,6 @@ import javax.swing.ListSelectionModel;
 import javax.swing.table.DefaultTableModel;
 import userinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel;
 
-/**
- *
- * @author raunak
- */
 public class ManageEnterpriseJPanel extends javax.swing.JPanel {
 
     private JPanel userProcessContainer;
