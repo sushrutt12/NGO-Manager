@@ -11,10 +11,6 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.BenefactorCompanyAdminRole.BenefactorWorkAreaJPanel;
 
-/**
- *
- * @author raunak
- */
 public class BenefactorCompanyAdminRole extends Role {
 
     @Override
