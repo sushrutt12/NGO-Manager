@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author sneha
+ * @author sushrut tadwalkar
  */
 public class ViewEventJPanelF extends javax.swing.JPanel {
     JPanel userProcessContainer;
