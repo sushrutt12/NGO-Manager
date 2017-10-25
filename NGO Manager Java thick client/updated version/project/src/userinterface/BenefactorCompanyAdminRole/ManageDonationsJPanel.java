@@ -23,10 +23,6 @@ import javax.swing.JPanel;
 import javax.swing.ListSelectionModel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Hanan
- */
 public class ManageDonationsJPanel extends javax.swing.JPanel {
 
     UserAccount account;
