@@ -10,10 +10,6 @@ import Business.Organization.OrganizationDirectory;
 import Business.WorkQueue.EventWorkRequest;
 import java.util.ArrayList;
 
-/**
- *
- * @author Hanan
- */
 public abstract class Enterprise extends Organization{//read why we put it abstract class? and come up with answers
     //error on line 14 cuz we either need to implement all abstract methods (from parent class) or make this class as abstract
     private EnterpriseType enterpriseType;
