@@ -8,10 +8,6 @@ import Business.Role.VolunteerRole;
 import Business.Role.Role;
 import java.util.ArrayList;
 
-/**
- *
- * @author raunak
- */
 public class VolunteerOrganization extends Organization{
 
     
