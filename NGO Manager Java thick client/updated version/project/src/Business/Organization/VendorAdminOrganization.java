@@ -9,10 +9,6 @@ import Business.Role.Role;
 import Business.Role.VendorCompanyAdminRole;
 import java.util.ArrayList;
 
-/**
- *
- * @author Hanan
- */
 public class VendorAdminOrganization extends Organization {
     
     public VendorAdminOrganization() {
