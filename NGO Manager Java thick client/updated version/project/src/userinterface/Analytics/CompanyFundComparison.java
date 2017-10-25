@@ -19,10 +19,6 @@ import javax.swing.JPanel;
 import javax.swing.table.DefaultTableModel;
 import org.jfree.data.category.DefaultCategoryDataset;
 
-/**
- *
- * @author sneha
- */
 public class CompanyFundComparison extends javax.swing.JPanel {
 
     JPanel userProcessContainer;
