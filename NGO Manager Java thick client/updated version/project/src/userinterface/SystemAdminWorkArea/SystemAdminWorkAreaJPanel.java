@@ -18,10 +18,6 @@ import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 
 
-/**
- *
- * @author Hanan
- */
 public class SystemAdminWorkAreaJPanel extends javax.swing.JPanel {
 
     /**
