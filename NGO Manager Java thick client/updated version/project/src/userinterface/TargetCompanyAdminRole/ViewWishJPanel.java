@@ -15,10 +15,6 @@ import javax.swing.JPanel;
  */
 
 
-/**
- *
- * @author Hanan
- */
 public class ViewWishJPanel extends javax.swing.JPanel {
 
     JPanel userProcessContainer;
