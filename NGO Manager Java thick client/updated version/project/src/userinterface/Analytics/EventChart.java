@@ -5,10 +5,6 @@
  */
 package userinterface.Analytics;
 
-/**
- *
- * @author sneha
- */
 public class EventChart extends javax.swing.JPanel {
 
     /**
