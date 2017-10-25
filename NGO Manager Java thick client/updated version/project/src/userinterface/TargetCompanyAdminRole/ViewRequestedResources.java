@@ -16,10 +16,6 @@ import javax.swing.JPanel;
 import javax.swing.ListSelectionModel;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author sneha
- */
 public class ViewRequestedResources extends javax.swing.JPanel {
 
     JPanel userProcessContainer;
