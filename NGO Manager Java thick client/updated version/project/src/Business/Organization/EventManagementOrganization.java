@@ -8,10 +8,6 @@ import Business.Role.EventManagerRole;
 import Business.Role.Role;
 import java.util.ArrayList;
 
-/**
- *
- * @author raunak
- */
 public class EventManagementOrganization extends Organization{
 
  public EventManagementOrganization() {
