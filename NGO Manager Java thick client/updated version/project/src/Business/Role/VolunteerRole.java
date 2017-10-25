@@ -11,10 +11,6 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.VolunteerRole.VolunteerRoleJPanel;
 
-/**
- *
- * @author raunak
- */
 public class VolunteerRole extends Role {
 
     @Override
