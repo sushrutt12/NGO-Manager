@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Hanan
+ * @author sushrut tadwalkar
  */
 public class ViewWishJPanelF extends javax.swing.JPanel {
 
