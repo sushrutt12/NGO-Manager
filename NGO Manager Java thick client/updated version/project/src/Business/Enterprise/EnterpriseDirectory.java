@@ -7,10 +7,6 @@ package Business.Enterprise;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author Hanan
- */
 public class EnterpriseDirectory {
     
     private ArrayList<Enterprise> enterpriseList;
