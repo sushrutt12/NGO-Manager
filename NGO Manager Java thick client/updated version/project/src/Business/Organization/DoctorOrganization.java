@@ -8,10 +8,6 @@ import Business.Role.EventManagerRole;
 import Business.Role.Role;
 import java.util.ArrayList;
 
-/**
- *
- * @author raunak
- */
 public class DoctorOrganization extends Organization{
 
     public DoctorOrganization() {
