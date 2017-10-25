@@ -11,10 +11,6 @@ import Business.UserAccount.UserAccount;
 import javax.swing.JPanel;
 import userinterface.TargetCompanyAdminRole.TargetCompanyWorkAreaJPanel;
 
-/**
- *
- * @author raunak
- */
 public class TargetCompanyAdminRole extends Role {
 
     @Override
