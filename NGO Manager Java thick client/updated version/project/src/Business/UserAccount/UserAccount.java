@@ -9,10 +9,6 @@ import Business.Role.Role;
 import Business.WorkQueue.WorkQueue;
 import java.util.ArrayList;
 
-/**
- *
- * @author raunak
- */
 public class UserAccount {
     
     private String name;
