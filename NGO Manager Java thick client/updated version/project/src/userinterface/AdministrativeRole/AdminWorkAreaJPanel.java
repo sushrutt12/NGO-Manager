@@ -13,10 +13,6 @@ import java.awt.CardLayout;
 import javax.swing.JPanel;
 import userinterface.AdministrativeRole.ManageRelationship;
 
-/**
- *
- * @author  raunak
- */
 public class AdminWorkAreaJPanel extends javax.swing.JPanel {
      EcoSystem business;
      UserAccount account;
