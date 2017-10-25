@@ -6,10 +6,6 @@ package Business.WorkQueue;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author raunak
- */
 public class EventWorkRequest extends WorkRequest {
 
 private String eventName;
